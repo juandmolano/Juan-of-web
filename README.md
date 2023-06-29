@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Juan Diego Molano</h1>
+<h1 align="center">Hi 👋, I'm Juan Diego Molano Fierro</h1>
 <h3 align="center">A passionate frontend developer from Colombia🇨🇴 living in Montreal🇨🇦</h3>
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/juan-diego-molano-fierro-b6460321b/](https://www.linkedin.com/in/juan-diego-molano-fierro-b6460321b/)
