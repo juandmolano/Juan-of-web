@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan Diego Molano Fierro</h1>
 <h3 align="center">A passionate frontend developer from Colombia🇨🇴 living in Montreal🇨🇦</h3>
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/juandiegomolano/](https://www.linkedin.com/in/juandiegomolano/)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/juandmolanof/](https://www.linkedin.com/in/juandmolanof/)
 
 - 📫 How to reach me **juandmolano7@gmail.com**
 
